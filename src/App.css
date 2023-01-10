@@ -1,3 +1,11 @@
+.App .navbar ul li p{
+  font-family: 'Sofia Sans', sans-serif;
+  font-weight: bold;
+}
+.App .basic_info .main_info{
+  font-family: 'Sofia Sans', sans-serif;
+}
+
 .App {
   min-width: 100%;
   background-position: center;

@@ -1,0 +1,43 @@
+.bg{
+    background-color: #242D40;
+    padding-bottom: 100px;
+}
+
+.bg .container h2{
+    color: white;
+}
+.bg .container h2 span{
+    color: yellow;
+}
+.bg .container .box {
+    background-color: #a9b8d9;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 2rem;
+    row-gap: 2rem;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+}
+
+.bg .container .box .skill_container{
+    border-radius: 15px;
+    background-color: #d1d1d1;
+}
+
+.bg .container .box .skill_container .skill{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+    border-radius:  20px;
+}
+
+.bg .container .box .skill_container .skill img{
+    max-width: 80px;
+    max-height: 80px;
+}
+
+
+.bg .container .box :hover{
+    background-color: rgb(105, 105, 105);
+}

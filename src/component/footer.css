@@ -4,3 +4,10 @@
     padding-top: 10px;
     padding-bottom: 20px;
 }
+.footer_container .designby{
+    padding: 1rem 0 0 0;
+    text-align: center;
+    border-top: 0.1rem solid #fff3;
+    margin-left: 5%;
+    margin-right: 5%;
+}

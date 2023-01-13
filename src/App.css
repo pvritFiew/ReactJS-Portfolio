@@ -58,10 +58,10 @@
   z-index: 1;
 }
 .main_img{
-  min-width: 15%;
+  max-width: 15%;
   border-radius: 50%;
   border: 20px solid #6c7ea4;
-  margin-top: 10%;
+  margin-top: 15%;
   margin-left: 15%;
   animation: main_info_ani .7s linear forwards;
 }
@@ -74,7 +74,7 @@
   color: azure;
   animation: main_info_ani 1.2s linear forwards;
   margin-left: 10%;
-  margin-top: 17%;
+  margin-top: 23%;
 }
 .main_info:hover{
   color: #f4d210;

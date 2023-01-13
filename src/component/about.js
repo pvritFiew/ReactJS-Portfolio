@@ -1,14 +1,22 @@
 import './about.css'
+import imgA from '../Image/me1.jpg'
 const about = () => {
     return(
         <div className='container'>
             <h1>About Me</h1>
+            <div className='Image'>
+                <img src={imgA} alt=""/>
+            </div>
             <h3>Phoovarit Srimahadthai</h3>
             <p className='infomation'>I'm student in bachelor of Engineering, Software Engineering in Thammasat University Rangsit Center, 
                I am passionate about improving my coding skills & developing applications & websites, 
                and trying to learning new things in technical skill.
             </p>
+            
             <div className='box_container'>
+
+            
+
             <div className='info_box'>
                 <p>
                     <span>Age : </span>

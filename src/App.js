@@ -29,8 +29,10 @@ function App() {
 
       <div className='basic_info'>
         <img className='main_img' src={imgP} alt=""/>
-        <p className='main_info'>Hello, This is my PortFolio,<br/>My name is Phoovarit Srimahadthai,
-            <br/> I'm Study in bachelor of Engineering, <br/>Software Engineering at Thammasat University.</p>
+        <p className='main_info'>Hello, This is my portfolio,<br/>
+          My name is Phoovarit Srimahadthai,<br/>
+          I'm studying for a bachelor of Engineering,<br/>
+          Software Engineering at Thammasat University.</p>
       </div>
       
       

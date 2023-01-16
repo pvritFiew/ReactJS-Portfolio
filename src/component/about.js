@@ -8,9 +8,9 @@ const about = () => {
                 <img src={imgA} alt=""/>
             </div>
             <h3>Phoovarit Srimahadthai</h3>
-            <p className='infomation'>I'm student in bachelor of Engineering, Software Engineering in Thammasat University Rangsit Center, 
-               I am passionate about improving my coding skills & developing applications & websites, 
-               and trying to learning new things in technical skill.
+            <p className='infomation'>I'm a student in bachelor of Engineering, Software Engineering at Thammasat University Rangsit Center, 
+                I am passionate about improving my coding skills & developing applications & websites, 
+                and trying to learn new things in technical skills.
             </p>
             
             <div className='box_container'>
